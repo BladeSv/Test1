@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.main-wrapper {
+  width: 768px;
+  margin: auto;
+}
+header {
+  background-color: #006db3;
+  color: white;
+}
+main {
+  display: flex;
+
+  background-color: #039be5;
+}
